@@ -1,7 +1,7 @@
 
 public class RestAPI {
 
-	public static void main(String[] args) 
+	public  void restApi()
 	{
 		System.out.println("Rest API");
 

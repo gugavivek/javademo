@@ -1,7 +1,7 @@
 
 public class Github {
 
-	public static void main(String[] args) 
+	public void github()
 	{
 		System.out.println("GIthub");
 	}
