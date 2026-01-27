@@ -5,6 +5,8 @@ public class JavaDemo {
 	
 	{
 		System.out.println("Java Demo");
+		System.out.println("Java Demo2");
+
 	}
 
 }
